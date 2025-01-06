@@ -1,0 +1,7114 @@
+{
+  "colleges": [
+    {
+      "division": "BARISAL",
+      "district": "BARGUNA",
+      "eiin": 100113,
+      "institute_name": "BAKUL NESSA MOHILA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARGUNA",
+      "eiin": 100115,
+      "institute_name": "TIAKHALI COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARGUNA",
+      "eiin": 100141,
+      "institute_name": "HALTA DAWATALA WAZED ALI KHAN COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARGUNA",
+      "eiin": 100243,
+      "institute_name": "AILA  COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARGUNA",
+      "eiin": 100240,
+      "institute_name": "BARGUNA IDEAL COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARGUNA",
+      "eiin": 132006,
+      "institute_name": "GHATBARIA ADARSHA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARGUNA",
+      "eiin": 100239,
+      "institute_name": "M. BALIATALI D.N. COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARGUNA",
+      "eiin": 100295,
+      "institute_name": "CHANDKHALI MOSHARRAF HOSSAIN COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARGUNA",
+      "eiin": 100298,
+      "institute_name": "DR. ASMAT ALI COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARGUNA",
+      "eiin": 100294,
+      "institute_name": "KAUNIA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARGUNA",
+      "eiin": 100345,
+      "institute_name": "HAZI JALAL UDDIN MOHILA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 132027,
+      "institute_name": "CHAYGRAM SAHID ZIA UCHA MADDAMIC BIDDALAYA"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 100599,
+      "institute_name": "ABUL HOSSAIN KHAN COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 100588,
+      "institute_name": "ATAHAR UDDIN HOWLADER COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 100587,
+      "institute_name": "BAKER GANJ MOHILA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 100597,
+      "institute_name": "BAKERGANJ  ISLAMIA  MOHILA  COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 100598,
+      "institute_name": "KABAI UNION ISLAMIA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 100656,
+      "institute_name": "BISHARKANDI SHER E BANGLA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 100660,
+      "institute_name": "SAYED KATI UNION ISLAMIA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 100871,
+      "institute_name": "A.KARIM IDEAL COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 100869,
+      "institute_name": "ABDUR ROB SERNIABAT COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 100872,
+      "institute_name": "MAHANAGAR COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 100866,
+      "institute_name": "RUPATALI JAGUA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 100704,
+      "institute_name": "NIZAMUDDIN COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 100952,
+      "institute_name": "BHASANCHAR BIDDANANDAPUR COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 100950,
+      "institute_name": "EKOTA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 101017,
+      "institute_name": "ARIF MAHNOOD COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 101018,
+      "institute_name": "HAZI SYED BADRUL HOSSAIN COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 101016,
+      "institute_name": "PURBO HOSNABAD MAHABIDDALYA"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 101106,
+      "institute_name": "JALLA UNION IDEAL COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 101103,
+      "institute_name": "JUGIR KANDA MOHILA MAHABIDDYALAYE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 101105,
+      "institute_name": "SATLA IDEL COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BARISAL",
+      "eiin": 101100,
+      "institute_name": "UJIRPUR MOHILA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BHOLA",
+      "eiin": 101204,
+      "institute_name": "BANGLA BAZAR FATEMA KHANAM COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BHOLA",
+      "eiin": 101211,
+      "institute_name": "BHELUMIA IDEAL COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BHOLA",
+      "eiin": 132036,
+      "institute_name": "BIRSERSTHO MOSTAFA KAMAL MAHABIDDALAY"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BHOLA",
+      "eiin": 101203,
+      "institute_name": "ELISHA ISLAMIA MODEL COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BHOLA",
+      "eiin": 101206,
+      "institute_name": "OBAIDUL HAQUE COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BHOLA",
+      "eiin": 132025,
+      "institute_name": "REBA RAHMAN MOHABIDDALAY"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BHOLA",
+      "eiin": 101295,
+      "institute_name": "HAFIZ  IBRAHAM COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BHOLA",
+      "eiin": 101293,
+      "institute_name": "KACHIA TOBGI E.B. MOHABIDHALAY"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BHOLA",
+      "eiin": 101436,
+      "institute_name": "CHARMANIKA JALAL AHAMED COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BHOLA",
+      "eiin": 101437,
+      "institute_name": "OSMANGONJ UNITED COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BHOLA",
+      "eiin": 101434,
+      "institute_name": "ZANATA BAZAR SHAHID ZIAUR RAHMAN COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BHOLA",
+      "eiin": 101485,
+      "institute_name": "HALIMA KHATUN MOHILA MOHABIDDHALAY"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BHOLA",
+      "eiin": 132034,
+      "institute_name": "DHALI GOURA NAGAR COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "BHOLA",
+      "eiin": 101592,
+      "institute_name": "MANOARA BEGAM MOHILA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "JHALOKATI",
+      "eiin": 122711,
+      "institute_name": "BOZRA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "JHALOKATI",
+      "eiin": 101712,
+      "institute_name": "SHAH MAHMUDIA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "JHALOKATI",
+      "eiin": 101785,
+      "institute_name": "MONISWITA MOHILA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "JHALOKATI",
+      "eiin": 133822,
+      "institute_name": "JOYKALASH TICHNICAL AND B.M. COLLEGE. (GENERAL)"
+    },
+    {
+      "division": "BARISAL",
+      "district": "JHALOKATI",
+      "eiin": 101974,
+      "institute_name": "ABDUL MALEQUE COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102106,
+      "institute_name": "KESHABPUR  MAHAVIDYALAYA"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102111,
+      "institute_name": "NURAINPUR COLLAGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102165,
+      "institute_name": "ALI PURA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 131891,
+      "institute_name": "AZIZ AHMED COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 131931,
+      "institute_name": "L.A.M. UNAITED MOHILA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102217,
+      "institute_name": "NASIMA KARAMOT ALI MAHILA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 131868,
+      "institute_name": "PANGASHIA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102336,
+      "institute_name": "AMKHOLA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102329,
+      "institute_name": "CHAR KAZAL BANGABANDHU COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102327,
+      "institute_name": "HAZI KERAMAT ALI COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102326,
+      "institute_name": "K.B.M. SONA GAZI COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 131976,
+      "institute_name": "KALYAN KALOSH MOHILA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102334,
+      "institute_name": "KHARIZZAMA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102335,
+      "institute_name": "RANGA BALI  COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102404,
+      "institute_name": "ALHAJ ZALAL UDDIN COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102401,
+      "institute_name": "KALAPARA MOHILA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102399,
+      "institute_name": "KUAKATA KHANABAD COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102400,
+      "institute_name": "MUKTIJHODDHA MEMORIAL COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102474,
+      "institute_name": "KISMARPUR DELWAR HOSAIN COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102470,
+      "institute_name": "MAJIDBARIA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102601,
+      "institute_name": "ASMAT ALI KHAN COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 131850,
+      "institute_name": "B. S. L. MOHILA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 131851,
+      "institute_name": "BANIAKATHI MOHILA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102591,
+      "institute_name": "DHARANDI COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102597,
+      "institute_name": "HAZI AKKEL ALI HOWLADER COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 132000,
+      "institute_name": "HAZI HAMEZUDDIN MIRDHA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 133820,
+      "institute_name": "ISLAMIA MOHILA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102325,
+      "institute_name": "PANPATTI COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 102592,
+      "institute_name": "PAXMIA SAYDIA ISLANIA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PATUAKHALI",
+      "eiin": 131897,
+      "institute_name": "PAZAKHALI  COLLEGE  , LOHALIA"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 102328,
+      "institute_name": "BAKUL BARIA UNION COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 102685,
+      "institute_name": "DHAWA  ADARSHA  MAHABIDYALAY"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 102681,
+      "institute_name": "MANIK MIAH MOHABIDAALAYA"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 102720,
+      "institute_name": "KAUKHALI MOHILA  COLLAGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 102722,
+      "institute_name": "RAJKUMAR SANSKRITI COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 131952,
+      "institute_name": "BANGABANDHU SK. MUJIBUR RAHMAN COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 102816,
+      "institute_name": "MIRUKHALI COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 102818,
+      "institute_name": "SHAHDAT HOSSIAN COLLAGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 102890,
+      "institute_name": "BAITHAKATA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 102893,
+      "institute_name": "GOSHDKATI MOHAVIDYALAYA"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 102891,
+      "institute_name": "SHAHID JANONI MAHILA MAHAVIDYALAYA"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 103079,
+      "institute_name": "ALHAJ ABDUR RAHMAN COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 103080,
+      "institute_name": "FAZILA RAHMAN MOHILA COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 131984,
+      "institute_name": "PASHCHIM SOHAGDAL SHAHEED SMRITI B.M.COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 103085,
+      "institute_name": "SANATAN SANSKRITE COLLAGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 131975,
+      "institute_name": "BIPIN CHAND SANSKRIT COLLEGE (TOLE)"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 102957,
+      "institute_name": "TEJDASKATHI COLLEGE"
+    },
+    {
+      "division": "BARISAL",
+      "district": "PIROJPUR",
+      "eiin": 133059,
+      "institute_name": "K.C. TECHINCAL & BUSINESS NANAGEMENT COLLAGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "BANDARBAN",
+      "eiin": 131933,
+      "institute_name": "BANDARBAN WOMEN COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "BRAHAMANBARIA",
+      "eiin": 131980,
+      "institute_name": "ABBAS UDDIN KHAN SHOHAGPUR MODEL COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "BRAHAMANBARIA",
+      "eiin": 103202,
+      "institute_name": "DR.ROUSHAN ALAM COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "BRAHAMANBARIA",
+      "eiin": 103203,
+      "institute_name": "SHAH RAHAT ALI COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "BRAHAMANBARIA",
+      "eiin": 103204,
+      "institute_name": "SUJAN DULO COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "BRAHAMANBARIA",
+      "eiin": 103201,
+      "institute_name": "TAJUL ISLAM ADARSHA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "BRAHAMANBARIA",
+      "eiin": 103296,
+      "institute_name": "A MONEM COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "BRAHAMANBARIA",
+      "eiin": 132032,
+      "institute_name": "ALHAJ BEFGUM NURUNNNAHAR COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "BRAHAMANBARIA",
+      "eiin": 103293,
+      "institute_name": "SUHILPUR ALHAJ HARUN AL RASHID COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "BRAHAMANBARIA",
+      "eiin": 103385,
+      "institute_name": "BAYEK AL HAJ SHAH ALAM COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "BRAHAMANBARIA",
+      "eiin": 103377,
+      "institute_name": "KALSHER NAYEEMA ALAM MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "BRAHAMANBARIA",
+      "eiin": 103383,
+      "institute_name": "MOINPUR ALHAZ AZHARUL ISLAMIA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "BRAHAMANBARIA",
+      "eiin": 103439,
+      "institute_name": "ALIMUDDIN ZOBEDA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "BRAHAMANBARIA",
+      "eiin": 103437,
+      "institute_name": "NABINAGAR MAHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "BRAHAMANBARIA",
+      "eiin": 103441,
+      "institute_name": "SUR SAMRAT ALAUDDIN KHAN COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "BRAHAMANBARIA",
+      "eiin": 103465,
+      "institute_name": "CHATALPAR COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHANDPUR",
+      "eiin": 103572,
+      "institute_name": "FARAKKABAD COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHANDPUR",
+      "eiin": 103571,
+      "institute_name": "JILANI CHISTY COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHANDPUR",
+      "eiin": 103675,
+      "institute_name": "GALLAK ADARSHA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHANDPUR",
+      "eiin": 103676,
+      "institute_name": "KALIR BAZAR COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHANDPUR",
+      "eiin": 103701,
+      "institute_name": "HAIMCHAR COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHANDPUR",
+      "eiin": 103759,
+      "institute_name": "KAKAIR TALA JANATA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHANDPUR",
+      "eiin": 103755,
+      "institute_name": "NASIRKOTE SHAHID SMRITI COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHANDPUR",
+      "eiin": 103836,
+      "institute_name": "NURUL AZAD COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHANDPUR",
+      "eiin": 103886,
+      "institute_name": "MUNSHIR HAT COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHANDPUR",
+      "eiin": 103888,
+      "institute_name": "MUNSHI AZIMUDDIN COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHANDPUR",
+      "eiin": 103939,
+      "institute_name": "SUJATPUR COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHANDPUR",
+      "eiin": 103999,
+      "institute_name": "KARFULENNESSA WOMEN'S COLLEGE (RESIDENTIAL)"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104236,
+      "institute_name": "BAKALIA SHAHEED N.M.M.J. COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 131898,
+      "institute_name": "DILWARA JAHAN MEMORIAL COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104260,
+      "institute_name": "JARINA MOFZAL CITY CORPORATIN COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 131852,
+      "institute_name": "MASTER NAZIR AHAMED COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104154,
+      "institute_name": "KADHUR KHIL JALIL AMBIA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104202,
+      "institute_name": "SATBARIA OLI AHMED BIR BIKRAM COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 132024,
+      "institute_name": "HOME ECONOMICS COLLEGE CHITTAGONG"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104050,
+      "institute_name": "FATEYABAD COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104467,
+      "institute_name": "K.C.SHAHEED ZIAUR RAHAMAN COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 132145,
+      "institute_name": "CENTRAL PUBLIC SCHOOL AND COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104531,
+      "institute_name": "CHITAGONG METROPOLITON COMMERCE COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104530,
+      "institute_name": "J.M.SEN (SEN)COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104529,
+      "institute_name": "PATHARGHATA MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104660,
+      "institute_name": "PROFESSOR KAMAL UDDIN CHOWDHURY COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104658,
+      "institute_name": "ZORWARGONJ MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104782,
+      "institute_name": "MUZAFARABAD COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104851,
+      "institute_name": "RANGGUNIA MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104852,
+      "institute_name": "SOUTH RANGUNIA SHILAK GIRLS COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104847,
+      "institute_name": "SYEDA SELIMA QADER CHOWDHURY MOHILA\nCOLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104935,
+      "institute_name": "ASHALATA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104936,
+      "institute_name": "HAJEE BADSHA MABEYA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104929,
+      "institute_name": "HAZRAT YASIN SHAH PUBLIC COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104981,
+      "institute_name": "ABUL QUASEM HAIDER MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104978,
+      "institute_name": "SOUTH SANDWIP COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 104979,
+      "institute_name": "UTTAR SANDVIP COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 105060,
+      "institute_name": "COLONEL (RTD) OLI AHMED BIR BIKROM COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "CHITTAGONG",
+      "eiin": 105059,
+      "institute_name": "SATKANIA ADARSHA  MAHILA  COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105189,
+      "institute_name": "BRGUM JOHIRA MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105252,
+      "institute_name": "ABDUL MATIN KHASRUL MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105255,
+      "institute_name": "ASADNSGAR ABDUL MATIN KHASRU COLLGEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105250,
+      "institute_name": "BANGABANDHU COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105251,
+      "institute_name": "BARADUSHIA ADARSHA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 132028,
+      "institute_name": "GOPALNAGOR ADARSHA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105254,
+      "institute_name": "MOSHARROF HOSSAIN CHOWDHURY COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105253,
+      "institute_name": "PRINCIPAL ABDUL MAJID DEWAN COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105247,
+      "institute_name": "SHASHIDAL AL-HAJ MOHAMMAD ABU TAHER COLLEG"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105335,
+      "institute_name": "PARUARA  ABDUL MATIN KHASRU  COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105330,
+      "institute_name": "SONAR BANGLA COLLAGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105400,
+      "institute_name": "MADHAIA MUKTIJUDDHA  SMRITI COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105401,
+      "institute_name": "SHAHEED ZIAUR RAHMAN COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105511,
+      "institute_name": "AKCHERAY JAHAN CHOWDHURY MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105519,
+      "institute_name": "MEAH BAZAR COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 131943,
+      "institute_name": "COMILLA  RESIDENTIAL  COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105748,
+      "institute_name": "SIGIRPARA T.I.K. MEMO .COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105747,
+      "institute_name": "BIJOYPUR MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105749,
+      "institute_name": "BIMAN BANDRA MUNSHI FARUK AHMED COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 131957,
+      "institute_name": "CANTONMENT  COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105958,
+      "institute_name": "CHOTO SHARIFPUR COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 131903,
+      "institute_name": "COMILLA COMMERCE COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105961,
+      "institute_name": "PRINCIPAL ABUL KALAM MAZUMAER MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105581,
+      "institute_name": "BEGUM RABEYA GIRL'S COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 131913,
+      "institute_name": "DR. MOHHARRAF FOUNDATION COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105577,
+      "institute_name": "DR.KHANDAKER MOSHARRAF HOSSAIN COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105661,
+      "institute_name": "ALAHABAD COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105667,
+      "institute_name": "BARASHALGHAR ADARSHA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 131974,
+      "institute_name": "DHAMPTI ROWSHAN ARA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105660,
+      "institute_name": "JAFARGONJ MIR ABDUL GAFUR COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105662,
+      "institute_name": "MOHAMMADPUR SERAJUL HAQUE COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105664,
+      "institute_name": "MOHANPUR PUBLIC COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105663,
+      "institute_name": "RAJAMAHERENG.MONJURUL AHSAN MUNSI ADARSH\nCOLEEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105696,
+      "institute_name": "RAMKRISHNAPUR COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105697,
+      "institute_name": "REHANA MAJID MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105960,
+      "institute_name": "LAKSAM MODEL COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 105976,
+      "institute_name": "MANIKARCHAR COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 106064,
+      "institute_name": "SAMSUL HUQ COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 106160,
+      "institute_name": "ABDUL GOFUR BHUIYAN COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 106163,
+      "institute_name": "CHALAN COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 106159,
+      "institute_name": "HESHAKHAL BAZAR COLLEGR"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 106162,
+      "institute_name": "HOMNABAD ADARSHA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COMILLA",
+      "eiin": 106164,
+      "institute_name": "NANGALKOT MODEL MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COX'S BAZAR",
+      "eiin": 106232,
+      "institute_name": "BADARKHALI COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COX'S BAZAR",
+      "eiin": 132204,
+      "institute_name": "CHAKARIA ABASHIK  MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COX'S BAZAR",
+      "eiin": 106229,
+      "institute_name": "CHAKARIA CITY COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COX'S BAZAR",
+      "eiin": 106233,
+      "institute_name": "DULAHAZRA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COX'S BAZAR",
+      "eiin": 132142,
+      "institute_name": "COX'S BAZAR COMMERCE COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COX'S BAZAR",
+      "eiin": 106314,
+      "institute_name": "EIDGAH FARID AHAMED COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COX'S BAZAR",
+      "eiin": 106334,
+      "institute_name": "KUTUBDIA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COX'S BAZAR",
+      "eiin": 106373,
+      "institute_name": "HOANAK COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COX'S BAZAR",
+      "eiin": 106374,
+      "institute_name": "MAHESHKHALI MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COX'S BAZAR",
+      "eiin": 106255,
+      "institute_name": "SHAHID ZIAUR UPOKOLYO COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "COX'S BAZAR",
+      "eiin": 106447,
+      "institute_name": "BANGAMATA FAZILATUNNESA MUJIB WOMEN COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "FENI",
+      "eiin": 106500,
+      "institute_name": "MOULAVI SHAMSUL KARIM COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "FENI",
+      "eiin": 106640,
+      "institute_name": "RAMPUR NASHIR MEMORIAL COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "FENI",
+      "eiin": 106670,
+      "institute_name": "BEGUM KHALEDA ZIA MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "FENI",
+      "eiin": 106672,
+      "institute_name": "HAJEE MONIR AHMED COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "FENI",
+      "eiin": 106746,
+      "institute_name": "ENAYAT ULLAH MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "KHAGRACHHARI",
+      "eiin": 106788,
+      "institute_name": "KHAGRACHARI GOVT MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "KHAGRACHHARI",
+      "eiin": 106795,
+      "institute_name": "LAXMICHARI COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "KHAGRACHHARI",
+      "eiin": 106807,
+      "institute_name": "MAHAL CHARI COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "KHAGRACHHARI",
+      "eiin": 106817,
+      "institute_name": "MANIK CHARI GIRI MOITRI COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "KHAGRACHHARI",
+      "eiin": 106846,
+      "institute_name": "PANCHARI COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "LAKSHMIPUR",
+      "eiin": 107175,
+      "institute_name": "HAZIR HAT UPAKUL COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "LAKSHMIPUR",
+      "eiin": 107000,
+      "institute_name": "BHOWANIGONJ COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "LAKSHMIPUR",
+      "eiin": 132065,
+      "institute_name": "LAKSHMIPUR COMMERCE COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "LAKSHMIPUR",
+      "eiin": 106999,
+      "institute_name": "LAKSHMIPUR POURA IDEAL COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "LAKSHMIPUR",
+      "eiin": 106994,
+      "institute_name": "ZILLUR RAHIM COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "LAKSHMIPUR",
+      "eiin": 107109,
+      "institute_name": "DALTA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "LAKSHMIPUR",
+      "eiin": 107177,
+      "institute_name": "ABDUL HADI  COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "LAKSHMIPUR",
+      "eiin": 107174,
+      "institute_name": "RAMGOTI AHAMADIA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "LAKSHMIPUR",
+      "eiin": 107178,
+      "institute_name": "TOWN ALEXANDER MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "LAKSHMIPUR",
+      "eiin": 107049,
+      "institute_name": "RAIPUR MOHILA CLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "NOAKHALI",
+      "eiin": 107309,
+      "institute_name": "CHATKHIL WOMENS COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "NOAKHALI",
+      "eiin": 107310,
+      "institute_name": "SOMPARA COLLEG"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "NOAKHALI",
+      "eiin": 107358,
+      "institute_name": "BAMNI COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "NOAKHALI",
+      "eiin": 107360,
+      "institute_name": "CHOWDHURY HAT COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "NOAKHALI",
+      "eiin": 107465,
+      "institute_name": "HATIA ADARSHA MOHILA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "NOAKHALI",
+      "eiin": 132033,
+      "institute_name": "HATYA COMMUNITY COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "NOAKHALI",
+      "eiin": 107656,
+      "institute_name": "CHAPRASHIR HAT ISMAIL COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "NOAKHALI",
+      "eiin": 107665,
+      "institute_name": "CHAR MATUA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "NOAKHALI",
+      "eiin": 107254,
+      "institute_name": "JALAL UDDIN COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "NOAKHALI",
+      "eiin": 107661,
+      "institute_name": "MAIJDEE PUBLIC COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "NOAKHALI",
+      "eiin": 131927,
+      "institute_name": "MAJOR (RTD) ABDUL MANNAN COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "NOAKHALI",
+      "eiin": 107517,
+      "institute_name": "KANKIR HAT COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "NOAKHALI",
+      "eiin": 107416,
+      "institute_name": "JOYAG COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "RANGAMATI",
+      "eiin": 107686,
+      "institute_name": "SHIJAK COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "RANGAMATI",
+      "eiin": 107717,
+      "institute_name": "GHAGRA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "RANGAMATI",
+      "eiin": 107716,
+      "institute_name": "KAWKHALI COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "RANGAMATI",
+      "eiin": 107764,
+      "institute_name": "RABITA MODEL COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "RANGAMATI",
+      "eiin": 107781,
+      "institute_name": "NANIARCHAR COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "RANGAMATI",
+      "eiin": 107788,
+      "institute_name": "BANGAL HALIA COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "RANGAMATI",
+      "eiin": 107789,
+      "institute_name": "RAJASTHALI COLLEGE"
+    },
+    {
+      "division": "CHITTAGONG",
+      "district": "RANGAMATI",
+      "eiin": 107819,
+      "institute_name": "GOVT.RANGAMATI MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 130583,
+      "institute_name": "LAUREL INTERNATIONAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 130560,
+      "institute_name": "QUEEN'S COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 108032,
+      "institute_name": "GULSHAN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131904,
+      "institute_name": "GULSHAN COMMERCE COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131218,
+      "institute_name": "KING'S COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131945,
+      "institute_name": "NATIONAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 107911,
+      "institute_name": "MATUAIL HAJI ABDUL LATIF BHUIYAN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 107913,
+      "institute_name": "RONGMALA AKBAR MHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 107980,
+      "institute_name": "DHAKA MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 107979,
+      "institute_name": "DHAKA PRESIDENCY COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 133714,
+      "institute_name": "SAMOTA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 130583,
+      "institute_name": "LAUREL INTERNATIONAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 130560,
+      "institute_name": "QUEEN'S COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 108032,
+      "institute_name": "GULSHAN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131904,
+      "institute_name": "GULSHAN COMMERCE COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131218,
+      "institute_name": "KING'S COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131945,
+      "institute_name": "NATIONAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 107911,
+      "institute_name": "MATUAIL HAJI ABDUL LATIF BHUIYAN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 107913,
+      "institute_name": "RONGMALA AKBAR MHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 107980,
+      "institute_name": "DHAKA MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 107979,
+      "institute_name": "DHAKA PRESIDENCY COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 133714,
+      "institute_name": "SAMOTA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131634,
+      "institute_name": "DHAKA IDEAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 132008,
+      "institute_name": "KHILGOAN IDEAL  COLLEGE  ,DHAKA -1219"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 108386,
+      "institute_name": "SHANTIPUR COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 130641,
+      "institute_name": "LANDMARK COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131989,
+      "institute_name": "NIKUNJA MODEL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 133736,
+      "institute_name": "RESIDENTIAL LABRATORY COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 130642,
+      "institute_name": "RAYHAN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 108208,
+      "institute_name": "DHAKA MODERN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131971,
+      "institute_name": "KHAN INTERNATIONAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131919,
+      "institute_name": "AL - HERA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131916,
+      "institute_name": "FEROZA BASHAR IDEAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131877,
+      "institute_name": "METROPOLITAN MODEL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 108586,
+      "institute_name": "DHAKA CITY INTERNATIONAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131878,
+      "institute_name": "HARUN MOLLAH COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 130587,
+      "institute_name": "LIGHT HOUSE COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 108216,
+      "institute_name": "RAJDHANI MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 108276,
+      "institute_name": "PURANA PALTAN GIRLS COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131047,
+      "institute_name": "COLLEGE OF FINANCE & MANAGEMENT"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131670,
+      "institute_name": "COLLEGEX (COLLEGE FOR EXCELLENCE)"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 108450,
+      "institute_name": "MIRZA GOLAM HAFIZ COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 108452,
+      "institute_name": "MOFAZZAL MOMENA CHAKLADAR MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131845,
+      "institute_name": "SAVAR LABORATORY COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 108451,
+      "institute_name": "SAVAR MODEL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 108448,
+      "institute_name": "TETUL JHORA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 108454,
+      "institute_name": "ZIRABO DEWAN IDRIS COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131962,
+      "institute_name": "HOLY CROSS COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 108534,
+      "institute_name": "SHER-E-BANGLA NAGAR ADARSHA MOHILA MOHABIDYALAYA"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 132050,
+      "institute_name": "CSD COLLEGE CCENTRE FORSTUDENT\nDEVELOPMENT COLLAGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 108569,
+      "institute_name": "DHAKA BOYS COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 108567,
+      "institute_name": "DHAKA NORTHEN CITY COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131763,
+      "institute_name": "LIGHTHOUSE CAREER COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 132047,
+      "institute_name": "OASIS INTERRMEDIATE COLLAGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131893,
+      "institute_name": "SCHOLARS CITY COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131890,
+      "institute_name": "SRISTY CENTRAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 132049,
+      "institute_name": "TALENT CAMPUS COLLAGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 130926,
+      "institute_name": "UNIVERSE COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 131849,
+      "institute_name": "UTTARA COMMERCE COLLECE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 132039,
+      "institute_name": "UTTARA IDEAL COMMERCE COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 130586,
+      "institute_name": "UTTARA MODEL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 132056,
+      "institute_name": "UTTARA PUBLIC COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "DHAKA",
+      "eiin": 132048,
+      "institute_name": "UTTARA SCIENCE COLLAGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "FARIDPUR",
+      "eiin": 132010,
+      "institute_name": "MADHOBPUR TECNICAL AND BUSINESS MANZGEMENT\nCOLLGEE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "FARIDPUR",
+      "eiin": 108711,
+      "institute_name": "BANGABANDHU COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "FARIDPUR",
+      "eiin": 108803,
+      "institute_name": "ALHAJ ABDUL KHALEQUE COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "FARIDPUR",
+      "eiin": 108801,
+      "institute_name": "BAKHUNDA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "FARIDPUR",
+      "eiin": 108800,
+      "institute_name": "FARIDPUR MUSLIM MISSION COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "FARIDPUR",
+      "eiin": 108799,
+      "institute_name": "KABIRBAGH POURA MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "FARIDPUR",
+      "eiin": 108793,
+      "institute_name": "KANAIPUR COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "FARIDPUR",
+      "eiin": 108855,
+      "institute_name": "AKHCHASHI MAHILA  COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "FARIDPUR",
+      "eiin": 108856,
+      "institute_name": "HAJI ABDUR RAHMAN ABDUL KARIM COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "FARIDPUR",
+      "eiin": 108902,
+      "institute_name": "SALTHA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "FARIDPUR",
+      "eiin": 108934,
+      "institute_name": "SADARPUR MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GAZIPUR",
+      "eiin": 131762,
+      "institute_name": "AGRANI MODEL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GAZIPUR",
+      "eiin": 131978,
+      "institute_name": "GAZIPUR CITY COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GAZIPUR",
+      "eiin": 130632,
+      "institute_name": "GAZIPUR COMMERCE COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GAZIPUR",
+      "eiin": 109030,
+      "institute_name": "GAZIPUR GOVT MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GAZIPUR",
+      "eiin": 131631,
+      "institute_name": "GAZIPUR PUBLIC COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GAZIPUR",
+      "eiin": 131217,
+      "institute_name": "GAZIPUR PUBLIC GIRLS COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GAZIPUR",
+      "eiin": 109028,
+      "institute_name": "HATIMARA HIGH SCHOOL & COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GAZIPUR",
+      "eiin": 109037,
+      "institute_name": "KONABARI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GAZIPUR",
+      "eiin": 109029,
+      "institute_name": "MUKTIJODDHA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GAZIPUR",
+      "eiin": 109111,
+      "institute_name": "BARAI BARI ADARSHA  COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GAZIPUR",
+      "eiin": 132041,
+      "institute_name": "NAYANAGAR MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GAZIPUR",
+      "eiin": 109182,
+      "institute_name": "KALIGONJ   MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GAZIPUR",
+      "eiin": 109324,
+      "institute_name": "ALIHAGJJ REZAUL HAQUE MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GAZIPUR",
+      "eiin": 109322,
+      "institute_name": "BANGATAJ COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GAZIPUR",
+      "eiin": 109325,
+      "institute_name": "SHARIF MOMTAJUDDIN  AHMED  COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GAZIPUR",
+      "eiin": 109426,
+      "institute_name": "DHALADIA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GAZIPUR",
+      "eiin": 109424,
+      "institute_name": "TIPU SULTAN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GOPALGANJ",
+      "eiin": 131937,
+      "institute_name": "SABIRA - ROUF COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GOPALGANJ",
+      "eiin": 109537,
+      "institute_name": "RATOIL IDEAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GOPALGANJ",
+      "eiin": 109589,
+      "institute_name": "RAMSHIL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GOPALGANJ",
+      "eiin": 109593,
+      "institute_name": "SHEIKH HASINA ADRSA MAHABIDYALAY"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GOPALGANJ",
+      "eiin": 109590,
+      "institute_name": "SHEKH RASEL COLLAGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "GOPALGANJ",
+      "eiin": 109653,
+      "institute_name": "UJANI B.K. B UNION COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "JAMALPUR",
+      "eiin": 109726,
+      "institute_name": "NILAKHIA PUIBLIC COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "JAMALPUR",
+      "eiin": 109778,
+      "institute_name": "M M MEMORIAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "JAMALPUR",
+      "eiin": 109856,
+      "institute_name": "MOLOM GONJ MODEL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "JAMALPUR",
+      "eiin": 109858,
+      "institute_name": "S,N,C,ADORSHA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "JAMALPUR",
+      "eiin": 110000,
+      "institute_name": "DR ABDUL MAZID TALLUKDER COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "JAMALPUR",
+      "eiin": 109993,
+      "institute_name": "JINNATON AFSOR MOHILA COLLGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "JAMALPUR",
+      "eiin": 109995,
+      "institute_name": "SHAHEED ZIAUR RAHMAN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "JAMALPUR",
+      "eiin": 109999,
+      "institute_name": "TULSHI PUR COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "JAMALPUR",
+      "eiin": 110075,
+      "institute_name": "BARISTER ABDUS SALAM TALUKDER COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "JAMALPUR",
+      "eiin": 110079,
+      "institute_name": "KHAJA SHAH SUFI YOUNUS ALI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "JAMALPUR",
+      "eiin": 110147,
+      "institute_name": "ALEYA AZAM COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "JAMALPUR",
+      "eiin": 110152,
+      "institute_name": "HABIBUR RAHMAN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "JAMALPUR",
+      "eiin": 131967,
+      "institute_name": "S. M. SHEKHA MUKHLESUR RAHMAN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "JAMALPUR",
+      "eiin": 110148,
+      "institute_name": "SHEIKH KAMAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "JAMALPUR",
+      "eiin": 110216,
+      "institute_name": "BANGA BANDHU COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "JAMALPUR",
+      "eiin": 110218,
+      "institute_name": "POGAL KIGHA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "JAMALPUR",
+      "eiin": 110220,
+      "institute_name": "SHANAKOIR IDEAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "KISHOREGANJ",
+      "eiin": 110291,
+      "institute_name": "SHIMUL KANDI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "KISHOREGANJ",
+      "eiin": 110345,
+      "institute_name": "ITNA MOHABIDDALAYAN"
+    },
+    {
+      "division": "DHAKA",
+      "district": "KISHOREGANJ",
+      "eiin": 110383,
+      "institute_name": "JANGALBARI MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "KISHOREGANJ",
+      "eiin": 110435,
+      "institute_name": "GACHIHAT COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "KISHOREGANJ",
+      "eiin": 110497,
+      "institute_name": "R .S. IDEAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "KISHOREGANJ",
+      "eiin": 110544,
+      "institute_name": "MUKTIJODDHA ADARSHA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "KISHOREGANJ",
+      "eiin": 110613,
+      "institute_name": "CHAR ADARSHA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "KISHOREGANJ",
+      "eiin": 110614,
+      "institute_name": "HOSSAINDI ADRASHA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "KISHOREGANJ",
+      "eiin": 110637,
+      "institute_name": "TARAIL MUKTIZODHYA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MADARIPUR",
+      "eiin": 110715,
+      "institute_name": "SHAHEBRAMPUR KABI NAZRUL ISLAM COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MADARIPUR",
+      "eiin": 110719,
+      "institute_name": "SHEIKH HASINA ACADEMY & WOMENS COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MADARIPUR",
+      "eiin": 131881,
+      "institute_name": "ABCK COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MADARIPUR",
+      "eiin": 130644,
+      "institute_name": "CHILARCHAR B.S.F.MUJIB SCHOOL & COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MADARIPUR",
+      "eiin": 110787,
+      "institute_name": "SYED ABUL HOSSAIN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MADARIPUR",
+      "eiin": 110817,
+      "institute_name": "KABIRAJPUR SAIFUDDIN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MADARIPUR",
+      "eiin": 110819,
+      "institute_name": "KADAMBARI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MADARIPUR",
+      "eiin": 110820,
+      "institute_name": "SHEIKH RASEL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MADARIPUR",
+      "eiin": 110883,
+      "institute_name": "BAHERA TOLA ADARSHA MAHANIDYALAYA"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MADARIPUR",
+      "eiin": 110879,
+      "institute_name": "ELIAS AHMED CHOWDHURY COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MANIKGANJ",
+      "eiin": 110906,
+      "institute_name": "BACHAMARA  BAGHATIA CHARKATARY  COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MANIKGANJ",
+      "eiin": 110931,
+      "institute_name": "DR. ABDUR RAHIM KHAN MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MANIKGANJ",
+      "eiin": 110997,
+      "institute_name": "KHONDAKAR DELWAR HOSSAN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MANIKGANJ",
+      "eiin": 111003,
+      "institute_name": "RAJIBPUR ADARSHA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MANIKGANJ",
+      "eiin": 110995,
+      "institute_name": "RAMJAN ALI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MANIKGANJ",
+      "eiin": 111026,
+      "institute_name": "BALIATI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MANIKGANJ",
+      "eiin": 111054,
+      "institute_name": "SHIBALAYA SADAR UDDIN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MANIKGANJ",
+      "eiin": 111085,
+      "institute_name": "BAIRA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MUNSHIGANJ",
+      "eiin": 111128,
+      "institute_name": "MEDINI MANDAL GIRLS COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MUNSHIGANJ",
+      "eiin": 111162,
+      "institute_name": "MUNSHIGANG COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MUNSHIGANJ",
+      "eiin": 111159,
+      "institute_name": "MUNSHIGONJ GOVT. MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MUNSHIGANJ",
+      "eiin": 111199,
+      "institute_name": "ALI ASGAR  ABDULLAH AND COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MUNSHIGANJ",
+      "eiin": 111254,
+      "institute_name": "BALIGAON AMZAD ALI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MUNSHIGANJ",
+      "eiin": 111255,
+      "institute_name": "BIKRAMPUR TONGIBARI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MUNSHIGANJ",
+      "eiin": 131938,
+      "institute_name": "SERAJABAD RANA SHAFIUAH COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111355,
+      "institute_name": "BIRUNIA SADAR ALI SARKER MEMORIAL  MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111387,
+      "institute_name": "DHOBAURA MAHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111515,
+      "institute_name": "AKHTAR SULTANA MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111520,
+      "institute_name": "ALHAJ MOBARAK KHAN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 130820,
+      "institute_name": "BEGUM FAJILATUNNESA MUJIB MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111522,
+      "institute_name": "FULBARIA MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 112189,
+      "institute_name": "HOSSAINPUR COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 131928,
+      "institute_name": "ISLAMIA  COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111518,
+      "institute_name": "JANATA MAHABIDYALAY"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111521,
+      "institute_name": "KESHOREGANJ COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111517,
+      "institute_name": "SHAHABUDDIN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 132046,
+      "institute_name": "TRISHAL FULBARIA MAITRY COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111662,
+      "institute_name": "GAFARGAON MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111661,
+      "institute_name": "HURMAT ULLAH COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111666,
+      "institute_name": "KAORAID GOYESHPUR COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111769,
+      "institute_name": "HALUAGHAT  ADARSHA  MOHILA  COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111998,
+      "institute_name": "MUKTAGACHA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 131936,
+      "institute_name": "ADVANSED RESIDENTIAL MODEL COLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111913,
+      "institute_name": "AGRICULTURAL UNIVERSITY COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111920,
+      "institute_name": "AMBIKA GONJ COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111919,
+      "institute_name": "B.K.B COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 131941,
+      "institute_name": "D.K.G.S.UNITED COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111911,
+      "institute_name": "GOVT. ANANDA MOHAN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111917,
+      "institute_name": "HAJI KASHEM ALI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 130588,
+      "institute_name": "MYMENSINGH COMMERCE COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 130589,
+      "institute_name": "MYMENSINGH IDEAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 131944,
+      "institute_name": "ROYAL MIDIA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 131960,
+      "institute_name": "SAMBHUGONJ G.P.K. COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 111910,
+      "institute_name": "SHAHID SYED NAZRUL ISLAM COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 112071,
+      "institute_name": "ANWARUL HOSSAIN KHAN CHOWDHURY MAHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 112068,
+      "institute_name": "KHURRAM KHAN CHOWDHURY COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 112069,
+      "institute_name": "SAMURA JHAN MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 112186,
+      "institute_name": "BAKSHIMUL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 112187,
+      "institute_name": "BOWLA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 112188,
+      "institute_name": "CHANDPUR COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 112182,
+      "institute_name": "N. ISLAMIA ACADEMY COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 131958,
+      "institute_name": "AULIANAGAR COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 133786,
+      "institute_name": "BHALUKA TRISHAL MOITRY COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 112294,
+      "institute_name": "HAJI CHERAG ALI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "MYMENSINGH",
+      "eiin": 131963,
+      "institute_name": "MOKSHAPUR COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARAYANGANJ",
+      "eiin": 112329,
+      "institute_name": "PANCHRUKHI BEGUM ANOWARA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARAYANGANJ",
+      "eiin": 112477,
+      "institute_name": "GOVT ADAMJEE NAGAR M W COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARAYANGANJ",
+      "eiin": 131874,
+      "institute_name": "KAIMONNESSA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARAYANGANJ",
+      "eiin": 131870,
+      "institute_name": "NARAYANGONJ MODEL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARAYANGANJ",
+      "eiin": 112476,
+      "institute_name": "SHANARPAR ROWSHAN ARA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARAYANGANJ",
+      "eiin": 112536,
+      "institute_name": "ABDUL AZIZ MIA AYESHA KHATUN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARAYANGANJ",
+      "eiin": 112371,
+      "institute_name": "HOSSAIN PUR S.P.UNION COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARSINGDI",
+      "eiin": 112574,
+      "institute_name": "BAROICHA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARSINGDI",
+      "eiin": 112575,
+      "institute_name": "HOSSAIN ALI COLLGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARSINGDI",
+      "eiin": 112652,
+      "institute_name": "BARACHAPA MOHA BIDDALAY"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARSINGDI",
+      "eiin": 112658,
+      "institute_name": "KHIDIRPUR COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARSINGDI",
+      "eiin": 112656,
+      "institute_name": "SARDER ASMAT ALI MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARSINGDI",
+      "eiin": 132043,
+      "institute_name": "ABDUL KADIR MOLLAH CITY COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARSINGDI",
+      "eiin": 112717,
+      "institute_name": "HAZI ABED ALI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARSINGDI",
+      "eiin": 131872,
+      "institute_name": "MADHABDI DIGITAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARSINGDI",
+      "eiin": 112716,
+      "institute_name": "NARSHINGDI MODEL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARSINGDI",
+      "eiin": 131871,
+      "institute_name": "SHILMANDI ADARSHA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARSINGDI",
+      "eiin": 112759,
+      "institute_name": "SHAHEED SMRITI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARSINGDI",
+      "eiin": 112818,
+      "institute_name": "ROYPURA CHETANA BIKASH MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARSINGDI",
+      "eiin": 112883,
+      "institute_name": "ABDUL MANNAN BHUIYAN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARSINGDI",
+      "eiin": 112879,
+      "institute_name": "LAKHPUR SHIMULIA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NARSINGDI",
+      "eiin": 112880,
+      "institute_name": "SABUJ PAHAR COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NETRAKONA",
+      "eiin": 112912,
+      "institute_name": "ATPARA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NETRAKONA",
+      "eiin": 131946,
+      "institute_name": "FAQIR ASHRAF COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NETRAKONA",
+      "eiin": 113077,
+      "institute_name": "GONDA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NETRAKONA",
+      "eiin": 113075,
+      "institute_name": "GOPALPUR MODEL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NETRAKONA",
+      "eiin": 113078,
+      "institute_name": "JANATA ADARSHA MOHABIDYALAY"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NETRAKONA",
+      "eiin": 113079,
+      "institute_name": "PERVIN SIRAZ MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NETRAKONA",
+      "eiin": 112990,
+      "institute_name": "KHALIAJURI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NETRAKONA",
+      "eiin": 113106,
+      "institute_name": "BALALI BAGHMARA SHAJAHAN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NETRAKONA",
+      "eiin": 113105,
+      "institute_name": "JOBAIDA RAHMAN MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NETRAKONA",
+      "eiin": 113130,
+      "institute_name": "MOHANGONJ MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NETRAKONA",
+      "eiin": 113193,
+      "institute_name": "CHANDRANATH COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "NETRAKONA",
+      "eiin": 113248,
+      "institute_name": "JOTIABOR COLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "RAJBARI",
+      "eiin": 113299,
+      "institute_name": "BAHARPUR  COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "RAJBARI",
+      "eiin": 113296,
+      "institute_name": "JAMALPUR COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "RAJBARI",
+      "eiin": 113319,
+      "institute_name": "RABEYA IDRISH MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "RAJBARI",
+      "eiin": 113413,
+      "institute_name": "ALHAZ AMZAD HOSSAIN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "RAJBARI",
+      "eiin": 113420,
+      "institute_name": "BANGABANDHU COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "RAJBARI",
+      "eiin": 113414,
+      "institute_name": "DR. KAZI MOTAHER HOSSIAN COLLAGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "RAJBARI",
+      "eiin": 113417,
+      "institute_name": "IDEAL GIRLS COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "RAJBARI",
+      "eiin": 113423,
+      "institute_name": "KOLIMOHAR MAHABIDDALAYA"
+    },
+    {
+      "division": "DHAKA",
+      "district": "SHARIATPUR",
+      "eiin": 113531,
+      "institute_name": "HABIB ULLAH COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "SHARIATPUR",
+      "eiin": 113528,
+      "institute_name": "SHAHID SIRAJ SIKDER COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "SHARIATPUR",
+      "eiin": 113607,
+      "institute_name": "PANDITSAR T.M. GIAS UDDIN COLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "SHARIATPUR",
+      "eiin": 113645,
+      "institute_name": "BM IDEAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "SHARIATPUR",
+      "eiin": 113646,
+      "institute_name": "GOVT. GOLAM HAIDER KHAN MAHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "SHARIATPUR",
+      "eiin": 113675,
+      "institute_name": "B.K NAGAR BANGABANDHU COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "SHERPUR",
+      "eiin": 113719,
+      "institute_name": "ALHAJ SHAFIUDDIN AHMED COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "SHERPUR",
+      "eiin": 113717,
+      "institute_name": "JHENAIGATI MAHILA ASARSHA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "SHERPUR",
+      "eiin": 113771,
+      "institute_name": "CHANDRAKONA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "SHERPUR",
+      "eiin": 131499,
+      "institute_name": "SHAHID MUKTIJODDA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "SHERPUR",
+      "eiin": 131500,
+      "institute_name": "BIR MUKTIJODDA ATIUR RAHMAN MODEL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "SHERPUR",
+      "eiin": 113916,
+      "institute_name": "DR.  SEKANDER ALI  COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "SHERPUR",
+      "eiin": 113919,
+      "institute_name": "JAMSAD ALI MEMORIAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "SHERPUR",
+      "eiin": 113917,
+      "institute_name": "KAMARAR CHAR COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "SHERPUR",
+      "eiin": 113918,
+      "institute_name": "MODEL GIRLS INSTITUTE COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "SHERPUR",
+      "eiin": 113974,
+      "institute_name": "AISHA AYEN UDDIN MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114013,
+      "institute_name": "KAULZANI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114014,
+      "institute_name": "SHAHID RAUSHAN ALI KHAN MOHABIDYALOYA"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114104,
+      "institute_name": "ARFAN COLLEGE LOWHATI"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114458,
+      "institute_name": "BHAI GHAT IDEAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114459,
+      "institute_name": "NORILLA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114453,
+      "institute_name": "UKHARIABARI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114198,
+      "institute_name": "BRAHMAN SHASHON MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114195,
+      "institute_name": "DHALAPARA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114196,
+      "institute_name": "SHAGAR DIGHI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114272,
+      "institute_name": "H. B. ABDUS SALAM PINTU COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114269,
+      "institute_name": "KHANDAKER FAJLUL HAQUE COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114348,
+      "institute_name": "JAMUNA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 131840,
+      "institute_name": "LAION FERDOUS ALAM FIROZ COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 131690,
+      "institute_name": "SHAHEED SHAHED HAZARI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114524,
+      "institute_name": "KHALILUR RAHMAN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114526,
+      "institute_name": "MIRZAPUR WOMEN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114527,
+      "institute_name": "NATUN KOHELA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114528,
+      "institute_name": "RAZABARI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 131632,
+      "institute_name": "SAFDAR ALI COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114590,
+      "institute_name": "AGNIBINA IDEAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114587,
+      "institute_name": "JANATA MAHABIDDALOY"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114671,
+      "institute_name": "BARACHOWNA KUTUBPUR COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114670,
+      "institute_name": "BOALI MOHABIDHALAYA"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114672,
+      "institute_name": "HATIYA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114673,
+      "institute_name": "PALASHTALI MOHABIDYALAYA"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114108,
+      "institute_name": "ATIA MOHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114745,
+      "institute_name": "ISLAMIC UNIVERSITY TECHNICAL COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 130643,
+      "institute_name": "SHAHEEN COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 114742,
+      "institute_name": "SHEIKH FAZILATUN NESA MIJIB MAHILA COLLEGE"
+    },
+    {
+      "division": "DHAKA",
+      "district": "TANGAIL",
+      "eiin": 130590,
+      "institute_name": "SRISTY COLLEGE OF TANGAIL"
+    },
+    {
+      "division": "KHULNA",
+      "district": "BAGERHAT",
+      "eiin": 114832,
+      "institute_name": "KHAN JAHAN ALI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "BAGERHAT",
+      "eiin": 115023,
+      "institute_name": "BANGA BANDHU MOHILA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "BAGERHAT",
+      "eiin": 114877,
+      "institute_name": "KALIDAS BARAL SMRITI MAHABIDALAYA"
+    },
+    {
+      "division": "KHULNA",
+      "district": "BAGERHAT",
+      "eiin": 114924,
+      "institute_name": "UNITED COLLAGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "BAGERHAT",
+      "eiin": 114984,
+      "institute_name": "JATIR JANAK BANGABANDHU WOMAN COLLAGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "BAGERHAT",
+      "eiin": 114981,
+      "institute_name": "LAILA  AZAD  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "BAGERHAT",
+      "eiin": 114875,
+      "institute_name": "BANGABANDHU MOHILA  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "BAGERHAT",
+      "eiin": 115158,
+      "institute_name": "DAKSHIN BANGLA COLLAGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "BAGERHAT",
+      "eiin": 115157,
+      "institute_name": "DR.KHALILUR  RAHMAN  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "BAGERHAT",
+      "eiin": 115159,
+      "institute_name": "MA  BABAR RAIN COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "BAGERHAT",
+      "eiin": 115154,
+      "institute_name": "SALIMABAD COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "BAGERHAT",
+      "eiin": 132055,
+      "institute_name": "SETARA ABBAS TECHNICAL AND BUSINESS\nMANGEMENT COLLAGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "BAGERHAT",
+      "eiin": 131992,
+      "institute_name": "SINGJORE  GOPALPUR  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "BAGERHAT",
+      "eiin": 115264,
+      "institute_name": "MATREE BHASHA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "CHUADANGA",
+      "eiin": 115334,
+      "institute_name": "DR. AFSAR UDDIN COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "CHUADANGA",
+      "eiin": 115333,
+      "institute_name": "KHASH KARARA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "CHUADANGA",
+      "eiin": 115331,
+      "institute_name": "NIGAR SIDDIK COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "CHUADANGA",
+      "eiin": 115380,
+      "institute_name": "BORO SALUA NEW MODEL COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "CHUADANGA",
+      "eiin": 115430,
+      "institute_name": "KARPASDANGA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "CHUADANGA",
+      "eiin": 115464,
+      "institute_name": "ANDUL BARIA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "CHUADANGA",
+      "eiin": 115462,
+      "institute_name": "JIBONNAGAR ADARSHA MOHILLA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "CHUADANGA",
+      "eiin": 115463,
+      "institute_name": "UTHALI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 115541,
+      "institute_name": "BHABADAHA MAHAVIDYALAYA"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 115546,
+      "institute_name": "DHOPADI S.S. COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 115549,
+      "institute_name": "GABKHALI  MAGURA UNITED  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 115542,
+      "institute_name": "PAIRHAT UNITED COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 115637,
+      "institute_name": "KHABIR UR RAHMAN COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 115713,
+      "institute_name": "G.C.B ARARSHA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 115716,
+      "institute_name": "HAKIMPUR MOHILA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 115717,
+      "institute_name": "J.M.S.K. COLLAGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 115715,
+      "institute_name": "PASHAPOL AMJAMTALA MODEL COLLAGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 132020,
+      "institute_name": "S.M. HABIBUR RAHMAN POURO COLLEGE, CHOWGACHA"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 131969,
+      "institute_name": "SM HABIBUR RAHMAN POURO COLLEGE, CHOWGACHA"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 115721,
+      "institute_name": "TARIQUL ISLAM PAWRO COLLAGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 115809,
+      "institute_name": "KAYEMKOLA COLLAGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 115808,
+      "institute_name": "SHIMULIA COLLAGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 115949,
+      "institute_name": "BURIHATI SHAHED ZIA MAHABIDYALAYA"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 115942,
+      "institute_name": "IDEAK COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 115948,
+      "institute_name": "PANJIA MAHABIDDALAYA"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 131990,
+      "institute_name": "SOUTH BENGAL COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 131954,
+      "institute_name": "TITA BAZITPUR M. K. B. MOHILA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 116104,
+      "institute_name": "DR. ABDUR RAZZAK MUNICIPAL COLLEGE, JESSORE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 116112,
+      "institute_name": "DR. RAUSHAN ALI COLLEGE OF SCIENCE TEC. AND B.M"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 116113,
+      "institute_name": "FOTIK MOLLAH MODEL COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 131924,
+      "institute_name": "NEW  MODEL  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 131998,
+      "institute_name": "NURUL ISLAM COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 116312,
+      "institute_name": "BALIADANGA KHANPUR COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 116305,
+      "institute_name": "CHINATYOLA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 116303,
+      "institute_name": "DHAKURIA COLLAGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 116306,
+      "institute_name": "MATRIVASHA MAHABIDDALOY"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 131918,
+      "institute_name": "PALASHI ADARSHA COLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 116313,
+      "institute_name": "SABUZ POLLI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 116302,
+      "institute_name": "SHAHEED MUKTIJODDHA A.R.GIRLS COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 115548,
+      "institute_name": "BHOYRAB ADARSHA MAHABYDDALYA"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 116381,
+      "institute_name": "SARSHA  UPAZILLA  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JESSORE",
+      "eiin": 116388,
+      "institute_name": "UNITED ADARSHA  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116445,
+      "institute_name": "HAZI ARASHAD ALI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116447,
+      "institute_name": "JORADAH COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116446,
+      "institute_name": "MANDIA IDEAL COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116554,
+      "institute_name": "A AND J COLLEGE  RAM NAGAR"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116558,
+      "institute_name": "ALHAJ MOSHIUR RAHMAN COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116555,
+      "institute_name": "JHENIDHA MAGURA SAMMILITO COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116549,
+      "institute_name": "MSHARRAR HOSSAIN COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116557,
+      "institute_name": "MUKTIJODDAH MOSHIUR RAHMAN COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116629,
+      "institute_name": "ABU BAKKAR BISWAS MUKSED ALI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116632,
+      "institute_name": "ALHAZ AMZAD ALI AND FAIZUR RAHMAN MOHILA\nCOLLEGE,KALIGONJ"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116634,
+      "institute_name": "BARA BAZAR COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 131909,
+      "institute_name": "JATEER JANKBANGABANDHU SHEKH MUJIB MEMORIL COLLAGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 131914,
+      "institute_name": "KEYA BAGAN ADARSA  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116631,
+      "institute_name": "LAUTOLA COLLEG"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116635,
+      "institute_name": "MANGALPAYTA PARKHIDDA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116630,
+      "institute_name": "SHAHID NUR ALI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116677,
+      "institute_name": "G. T. COLLEGE TALSAR"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116674,
+      "institute_name": "KOTCHANDPUR POWRO COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116755,
+      "institute_name": "ALFATUNNESA  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116749,
+      "institute_name": "BIR SHERSTHA HAMIDUR RAHMAN COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116751,
+      "institute_name": "JADOBPUR  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116747,
+      "institute_name": "KATGARA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116830,
+      "institute_name": "ABAIPUR JAMUNA SHIKDER COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116827,
+      "institute_name": "ADIL UDDIN COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116822,
+      "institute_name": "BANGBANDHU MEMORIAL COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116831,
+      "institute_name": "KANCHER KOLE COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116829,
+      "institute_name": "KATLAGARI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "JHENAIDAH",
+      "eiin": 116823,
+      "institute_name": "SHAILKUPA MOHILA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 116867,
+      "institute_name": "BAROARIA SHAHID SMARANI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 116871,
+      "institute_name": "GARIARDANGA ADARSHA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 116868,
+      "institute_name": "KHAGENDRANATH MOHILA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 116870,
+      "institute_name": "MUKTIJODDHA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 116922,
+      "institute_name": "CHALNA MOHILA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 116926,
+      "institute_name": "SONAR BANGLA MOHABIDHALAYA"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 116929,
+      "institute_name": "TILDANGA MOHABIDDALAY"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 116952,
+      "institute_name": "MAHESWARPASHA SHAHID ZIA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 133817,
+      "institute_name": "AL-HAJ MOLLA JALAL UDDIN COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117053,
+      "institute_name": "CHUKNAGAR COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117058,
+      "institute_name": "DR. S.K. BAKAR COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117051,
+      "institute_name": "MODEL MOHILA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117050,
+      "institute_name": "POLLISREE COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117057,
+      "institute_name": "RANGPUR COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117059,
+      "institute_name": "SWARNADEEP MAHADIDYALAYA"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117108,
+      "institute_name": "KHULNA HOME ECONOMICS COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117110,
+      "institute_name": "RAYER MAHAL COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117164,
+      "institute_name": "I.I.COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117324,
+      "institute_name": "CHAND KHALI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117326,
+      "institute_name": "HARIDHALI KAPILMUNI GIRLS COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117325,
+      "institute_name": "KALINAGAR COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117319,
+      "institute_name": "SARDER ABU HOSEN COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 132029,
+      "institute_name": "CANTONMENT PUBLIC COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117395,
+      "institute_name": "CHANDPUR COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117390,
+      "institute_name": "RUPSHA GIRLS COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117392,
+      "institute_name": "SYED ARSHAD ALI AND SABURUNNESSA GIRLS COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117429,
+      "institute_name": "KHULNA IDEAL COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117432,
+      "institute_name": "METROPOLITON COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117462,
+      "institute_name": "CHITTRA MOHILA MAHA BIDDYALAYA"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117459,
+      "institute_name": "SHAPLA MOHABIDDALAI"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KHULNA",
+      "eiin": 117460,
+      "institute_name": "SHATADAL MAHABIDDYALIA"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117616,
+      "institute_name": "ADABARIA UNION COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117607,
+      "institute_name": "DAULATPUR  GIRLS  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117604,
+      "institute_name": "GOALGRAM COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117611,
+      "institute_name": "MOHISKUNDI COLLGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117615,
+      "institute_name": "PRAGPUR  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117613,
+      "institute_name": "SHEIKH FOZILATUNNESA MUJIB MOHILA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117614,
+      "institute_name": "UNITED COLLEGE  BALIRDIAR"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117649,
+      "institute_name": "DHOKRAKOLE  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117732,
+      "institute_name": "CHOWRANGI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117733,
+      "institute_name": "JAGONNATHPUR IDEAL COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117727,
+      "institute_name": "KAYA MAHAVIDYALAYA"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 131889,
+      "institute_name": "AILCHARA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117806,
+      "institute_name": "DWARKA DAS AGAR WALA MOHILA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117814,
+      "institute_name": "GORAI MOHILA COLLEGE KUSHTIA"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117812,
+      "institute_name": "KHATER ALI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117807,
+      "institute_name": "KUSHTIA JHAUDIA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117813,
+      "institute_name": "KUSTIA CITY COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117815,
+      "institute_name": "SHANKARDIHA ADARSHA MAHABIDDAYALIA"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117899,
+      "institute_name": "CHITIAN ADRASAHA MOHABIDALAY"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117900,
+      "institute_name": "HAJI NURUL ISLAM COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117903,
+      "institute_name": "K. M. IDEAL COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117893,
+      "institute_name": "MIR ABDUL KARIM COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117902,
+      "institute_name": "NIMTALA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117901,
+      "institute_name": "NOWAB SIRAJUDDOULA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117896,
+      "institute_name": "PORADAH COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "KUSHTIA",
+      "eiin": 117892,
+      "institute_name": "SAGARKHALY IDEAL COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MAGURA",
+      "eiin": 118000,
+      "institute_name": "AISA WOMENS COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MAGURA",
+      "eiin": 131961,
+      "institute_name": "BANASSRI RABINDRA SMARANI COLLEGE KRISNABILA\n(TANGAKHALI)"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MAGURA",
+      "eiin": 118008,
+      "institute_name": "BUZRUK SREE KUNDI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MAGURA",
+      "eiin": 131908,
+      "institute_name": "DAKHIN NOWAPARA SAMMILANI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MAGURA",
+      "eiin": 118007,
+      "institute_name": "HAZIPUR SAMMILANI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MAGURA",
+      "eiin": 118001,
+      "institute_name": "JAGDAL SAMMILONI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MAGURA",
+      "eiin": 118004,
+      "institute_name": "MAGURA GOVT.MOHILA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MAGURA",
+      "eiin": 131956,
+      "institute_name": "RONI NOGOR COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MAGURA",
+      "eiin": 131983,
+      "institute_name": "SHATRUJITPUR COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MAGURA",
+      "eiin": 118062,
+      "institute_name": "BABU KHALI ADARSHA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MAGURA",
+      "eiin": 118122,
+      "institute_name": "ARPARA MOHILA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MAGURA",
+      "eiin": 118125,
+      "institute_name": "BIHARILAL SHIKDER MAHABIDDYALA"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MAGURA",
+      "eiin": 118172,
+      "institute_name": "SREEPUR MOHILA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MEHERPUR",
+      "eiin": 118254,
+      "institute_name": "B N COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MEHERPUR",
+      "eiin": 118255,
+      "institute_name": "BIR MUKIZODDAH ABDUL GANI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MEHERPUR",
+      "eiin": 118262,
+      "institute_name": "KARAMDI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MEHERPUR",
+      "eiin": 118257,
+      "institute_name": "MORKA JAGORAN COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MEHERPUR",
+      "eiin": 118340,
+      "institute_name": "A R B COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "MEHERPUR",
+      "eiin": 118284,
+      "institute_name": "MAHAJANPUR COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "NORAIL",
+      "eiin": 118386,
+      "institute_name": "HABIBUL ALAM BIR PROTIC COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "NORAIL",
+      "eiin": 131987,
+      "institute_name": "KHARAIA COLLAGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "NORAIL",
+      "eiin": 118382,
+      "institute_name": "MANORAJAN KAPURA COLLAGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "NORAIL",
+      "eiin": 118439,
+      "institute_name": "AMADA ADRASAHA COLLAGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "NORAIL",
+      "eiin": 118435,
+      "institute_name": "S.M.A AHAD COLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "NORAIL",
+      "eiin": 118529,
+      "institute_name": "ASHAR  ALLO  COLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "NORAIL",
+      "eiin": 118523,
+      "institute_name": "BALLARTOP IDEAL COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "NORAIL",
+      "eiin": 131996,
+      "institute_name": "BERSRAST  NUR  MOHAMAD  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "NORAIL",
+      "eiin": 118521,
+      "institute_name": "DAKHIN NARAIL  SHIMULIA   COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "NORAIL",
+      "eiin": 118528,
+      "institute_name": "GOBRA  MITRA  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "NORAIL",
+      "eiin": 132035,
+      "institute_name": "GOBRA WOMEN'S COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "NORAIL",
+      "eiin": 118531,
+      "institute_name": "HABOKHALI ADRASAHO MOHABIDDALAY"
+    },
+    {
+      "division": "KHULNA",
+      "district": "NORAIL",
+      "eiin": 118522,
+      "institute_name": "JURALIA BAHUMLIKHY ADRASHA COLLAGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "NORAIL",
+      "eiin": 118530,
+      "institute_name": "MAIJ PARA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "NORAIL",
+      "eiin": 131982,
+      "institute_name": "MULIA PUBLIC COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "NORAIL",
+      "eiin": 118384,
+      "institute_name": "NARAGATI COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "NORAIL",
+      "eiin": 118525,
+      "institute_name": "NARAIL  GOVT'  MOHILA  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 131921,
+      "institute_name": "BUDHATA MOHILA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 118611,
+      "institute_name": "HAJI JALALUDDIN ADARSHA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 118728,
+      "institute_name": "BANGABANDHU  MOHILA  COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 118733,
+      "institute_name": "BEGUM  KHALADA  ZIA  COLLAGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 132052,
+      "institute_name": "BOALIA MUKTI JUDDAH COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 118732,
+      "institute_name": "CHANDANPUR UNITED COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 131988,
+      "institute_name": "HABIBUL ISLAM COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 118726,
+      "institute_name": "KAZIRHAT COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 118796,
+      "institute_name": "D.R.M UNITED IDEAL COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 131922,
+      "institute_name": "K.M.S.R ISLAMIA MOHABIDDALAYA"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 118913,
+      "institute_name": "DATHVANGA MOHABIDDALOY"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 118903,
+      "institute_name": "GABA IDEAL COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 118915,
+      "institute_name": "ISLAMIA MAHILA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 131986,
+      "institute_name": "M. A. GAFUR MODEL COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 118905,
+      "institute_name": "UNITED MODEL COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 118995,
+      "institute_name": "BURI GOALINI GABURA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 132013,
+      "institute_name": "IDEAL MOHILA COLLEGE"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 119109,
+      "institute_name": "SHAHEED ZIAUR RAHMAN MOHABIDHALIOY"
+    },
+    {
+      "division": "KHULNA",
+      "district": "SATKHIRA",
+      "eiin": 119106,
+      "institute_name": "SHALIKHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119158,
+      "institute_name": "HAZI TASER AHMMED WOMENS COOLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119162,
+      "institute_name": "JALAL UDDIN AHMED COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119156,
+      "institute_name": "SANTAHAR WOMEN'S COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119256,
+      "institute_name": "BOGRA WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119257,
+      "institute_name": "JANATA COLLAGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 131997,
+      "institute_name": "KAZI NURUL HAJI MOYEZ UDDIN COLLEGE, BOGRA"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119252,
+      "institute_name": "THENGAMARA ANSAR HOSNEARA NIGHT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 131905,
+      "institute_name": "BILCHAPRI IDEAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 131917,
+      "institute_name": "GOSHAI BARI WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119405,
+      "institute_name": "JALSUKA HABIBUR RAHMAN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 132003,
+      "institute_name": "R M J COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119403,
+      "institute_name": "SONAHATA  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 131932,
+      "institute_name": "BORO NILAHALI BERAGRAM COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119473,
+      "institute_name": "GOVT.SHAH  EYTE  BARIA  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119469,
+      "institute_name": "MARTUZAPUR  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119547,
+      "institute_name": "GABTALI WOMENS  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119551,
+      "institute_name": "SHAHID ZIA MODEL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 132059,
+      "institute_name": "TARANIR HAT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119667,
+      "institute_name": "NIMAI DIGHI ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119717,
+      "institute_name": "GANAKPARA COLLEEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119716,
+      "institute_name": "SHARIAKANDI ABDUL MANNAN MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119329,
+      "institute_name": "DUBLAGARI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119328,
+      "institute_name": "KAMAR UDDIN ISLAMIA TECNICAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119805,
+      "institute_name": "JAMUR ISLAMIA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119809,
+      "institute_name": "SIMABARI WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119913,
+      "institute_name": "AL HAJ RAHMAT ULLAH COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119912,
+      "institute_name": "CHOWDHURY ADARSHA WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119911,
+      "institute_name": "MOIDANHATTA MOSHARRAF MONDAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "BOGRA",
+      "eiin": 119952,
+      "institute_name": "DR. ENAMUL HAQUE COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120201,
+      "institute_name": "BIROL MOHILA  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120198,
+      "institute_name": "BOARDHAT  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120200,
+      "institute_name": "DHUKUR JHARI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120202,
+      "institute_name": "JAGATPUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120203,
+      "institute_name": "KANCHAN NEW MODEL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 131991,
+      "institute_name": "MUNSHIPARA ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120019,
+      "institute_name": "BEPARITOLA ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120020,
+      "institute_name": "KETRAHAT COLLAGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120126,
+      "institute_name": "BIRGANJ TECHNICAL AND BUSINESS MANAGEMENT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120128,
+      "institute_name": "GOLAPGONJ COLLAGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120129,
+      "institute_name": "JHARBARI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120268,
+      "institute_name": "DEOGAON BOKUL TALA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120271,
+      "institute_name": "MAHER PUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120270,
+      "institute_name": "SETAB GANJ MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120390,
+      "institute_name": "AMBARI MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120389,
+      "institute_name": "AMTOLI  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120397,
+      "institute_name": "BINNAKURY COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120392,
+      "institute_name": "CHIRIR BANDAR MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120395,
+      "institute_name": "FATEJANG PUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120394,
+      "institute_name": "KARENT HAT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120396,
+      "institute_name": "RANIR BAMDAR WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 131910,
+      "institute_name": "SUKHIPIR  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120125,
+      "institute_name": "BIRGONJ MOHILA COLLAGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120825,
+      "institute_name": "CHEHEL GAZI COLLAGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120817,
+      "institute_name": "DASMIN KOTWALI COLLAGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120819,
+      "institute_name": "DINAJPUR ISLAMIA WOMEN'S COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120827,
+      "institute_name": "FASHIL DANGA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120828,
+      "institute_name": "GAUSUL AZAM GOLLAGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120269,
+      "institute_name": "HAT RAMPUR COLLAGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120826,
+      "institute_name": "SHANKARPUR COLLAGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120449,
+      "institute_name": "BANGABANDHU COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120453,
+      "institute_name": "MADILA HAT COLLAGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120502,
+      "institute_name": "DUGDUGI HAT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120498,
+      "institute_name": "GHORA  GHAT ADARSA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120603,
+      "institute_name": "BULIA BAZAR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 133787,
+      "institute_name": "PURBA MALLIK PUR H.S. COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120604,
+      "institute_name": "PURBA MALLIKPUR WOMEN'S COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120701,
+      "institute_name": "ALOK DIHI IDEAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120698,
+      "institute_name": "BANGLA BHASA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120699,
+      "institute_name": "KHANSAMA WOMENS'S COLLAGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120939,
+      "institute_name": "AFTABGANJ WAMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 120945,
+      "institute_name": "RAHGUNATHPUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "DINAJPUR",
+      "eiin": 121063,
+      "institute_name": "MADHYA PARA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121095,
+      "institute_name": "CHANDIA MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121096,
+      "institute_name": "UDAKHALI MODEL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121097,
+      "institute_name": "UDAKHALI WOMEN'S COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121345,
+      "institute_name": "KOCHA SHAHAR SHILPA NAGORI COLLEGE AND\nGOBESHONA KANDRA"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121188,
+      "institute_name": "LENGA BAZAR IDEAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121348,
+      "institute_name": "SHAMIM AND SHAKIL KARIGORI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121354,
+      "institute_name": "EKRAMUL HAQUE IDEAL AND COMPUTER BIGGYAN\nCOLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121353,
+      "institute_name": "FULPUKURIYA  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121346,
+      "institute_name": "MAHIMAGANJ WOMEN'S COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121344,
+      "institute_name": "NAKAI HAT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121429,
+      "institute_name": "HARINABARI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121430,
+      "institute_name": "MARIRHAT MODEL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121428,
+      "institute_name": "PALASH  BARI   MAHILA  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121543,
+      "institute_name": "JOYEN PUR ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121541,
+      "institute_name": "KAMAR PARA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121540,
+      "institute_name": "MOHIPUR BAZAR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121611,
+      "institute_name": "JUMARBARI ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121612,
+      "institute_name": "KAMALER PARA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121608,
+      "institute_name": "UDAYAN WOMEN'S COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121756,
+      "institute_name": "BAMANDANGA ABDUL HAQUE COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121762,
+      "institute_name": "BAZARPARA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 131930,
+      "institute_name": "DHARMAPUR WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121760,
+      "institute_name": "DHUBNI KANCHIBARI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121761,
+      "institute_name": "DUBNI MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121753,
+      "institute_name": "RAMDEB SHAIKH KHABIR UDDIN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "GAIBANDHA",
+      "eiin": 121763,
+      "institute_name": "SHOBHAGANJ WOMEN'S MODEL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "JOYPURHAT",
+      "eiin": 121799,
+      "institute_name": "AKKELPUR WOMEN'S COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "JOYPURHAT",
+      "eiin": 121800,
+      "institute_name": "JAMAL GONG COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "JOYPURHAT",
+      "eiin": 121802,
+      "institute_name": "TILOKKPUR MOHABIDDALAY"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "JOYPURHAT",
+      "eiin": 131907,
+      "institute_name": "HICHMI ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "JOYPURHAT",
+      "eiin": 121898,
+      "institute_name": "JOYPURHAT WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "JOYPURHAT",
+      "eiin": 131900,
+      "institute_name": "SHALPARA IDEAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "JOYPURHAT",
+      "eiin": 121893,
+      "institute_name": "VADSHA IDEAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "JOYPURHAT",
+      "eiin": 131939,
+      "institute_name": "MATRAI MODEL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "JOYPURHAT",
+      "eiin": 121942,
+      "institute_name": "NANDIAL DIGHI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "JOYPURHAT",
+      "eiin": 131977,
+      "institute_name": "BOTTOLI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "JOYPURHAT",
+      "eiin": 122067,
+      "institute_name": "PANCHBIBI WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "JOYPURHAT",
+      "eiin": 122072,
+      "institute_name": "RATANPUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "JOYPURHAT",
+      "eiin": 122071,
+      "institute_name": "SARAIL ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "JOYPURHAT",
+      "eiin": 122069,
+      "institute_name": "SHIROTTI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122125,
+      "institute_name": "MAIDAM COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122124,
+      "institute_name": "SHONAHAT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 132001,
+      "institute_name": "CHILMARI TECNICAL AND BUSINESS MANAGMENTCOLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122335,
+      "institute_name": "BHOGDANGA MODEL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122329,
+      "institute_name": "JATRAPUR ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122334,
+      "institute_name": "PANCHGACHHI  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122147,
+      "institute_name": "RAJIB PUR WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122460,
+      "institute_name": "CHILLAKHANA MODEL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122459,
+      "institute_name": "KALIGONJ  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122457,
+      "institute_name": "NAGESWARI  MODEL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122458,
+      "institute_name": "NEWASHI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122461,
+      "institute_name": "SAMAJ KALYEN WOMENS COLLGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122241,
+      "institute_name": "BARA BHITA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122242,
+      "institute_name": "SAIFUR RAHMAN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122533,
+      "institute_name": "NAKKATI HAT ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122535,
+      "institute_name": "RAJARHAT ADARSHA MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122537,
+      "institute_name": "SINGER DABRI HAT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122581,
+      "institute_name": "CHAR SHOUL MARI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122583,
+      "institute_name": "JADUR CHAR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122582,
+      "institute_name": "JADUR CHAR MODEL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122710,
+      "institute_name": "GUNAI GACHH COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "KURIGRAM",
+      "eiin": 122706,
+      "institute_name": "MONDOLERHAT  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "LALMONIRHAT",
+      "eiin": 122771,
+      "institute_name": "NAMURI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "LALMONIRHAT",
+      "eiin": 122826,
+      "institute_name": "BARAKHATA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "LALMONIRHAT",
+      "eiin": 122827,
+      "institute_name": "DAIKHAWA ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "LALMONIRHAT",
+      "eiin": 122828,
+      "institute_name": "HATIBANDHA MODEL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "LALMONIRHAT",
+      "eiin": 122894,
+      "institute_name": "TUSHBHANDER MOMEN'S COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "LALMONIRHAT",
+      "eiin": 122890,
+      "institute_name": "UTTARAN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "LALMONIRHAT",
+      "eiin": 122986,
+      "institute_name": "MOHENDRA NAGAR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123086,
+      "institute_name": "ATRAI WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123083,
+      "institute_name": "BARA SIMLA MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123087,
+      "institute_name": "PAIKARA BARAIKURI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123137,
+      "institute_name": "GOBARCHA PAHAT  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123139,
+      "institute_name": "KOLA ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123141,
+      "institute_name": "MITHA PUR AKHTAR HAMID SIDDIQUI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 131895,
+      "institute_name": "AGRADIGUN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123197,
+      "institute_name": "ALHAJ ZAHANGIR ALAM MEMORIAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123406,
+      "institute_name": "ARIF MEMORIAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123408,
+      "institute_name": "RAIGAON COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123323,
+      "institute_name": "BALUBAZAR SHAFIUDDIN MOLLAH COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123315,
+      "institute_name": "CHOWBARIA  HAT  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123322,
+      "institute_name": "FATEPUR KALIMUDDIN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 131892,
+      "institute_name": "JOT BAJAR WOMANS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123320,
+      "institute_name": "MANDA KARIGORI AND KRISHI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123319,
+      "institute_name": "PANIAL ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 131899,
+      "institute_name": "PURBA MANDA IDEAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123491,
+      "institute_name": "BHEEMPUR ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123566,
+      "institute_name": "CHANDAN NAGAR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123648,
+      "institute_name": "KRISHNA PUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123492,
+      "institute_name": "TETULIA B.M.C COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123563,
+      "institute_name": "RAJA PUR BATTOLI HAT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123646,
+      "institute_name": "NAZIPUR WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123744,
+      "institute_name": "ABADPUKUR MOHAVIDILAYA"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123743,
+      "institute_name": "ABADPUKUR MOHAVIDYALAYA"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123824,
+      "institute_name": "DIGHIR HAT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAOGAON",
+      "eiin": 123826,
+      "institute_name": "TILNA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 123892,
+      "institute_name": "LOKMAN PUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 123891,
+      "institute_name": "PANKA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 123887,
+      "institute_name": "QADIRABAD CANTONMENT SAPPER COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 123884,
+      "institute_name": "SAHID ZIAUR RAHMAN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 123893,
+      "institute_name": "TOMALTOLA WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 123975,
+      "institute_name": "AHMEDPUR COLLEGE-2"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 123973,
+      "institute_name": "BRAIGRAM MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 131887,
+      "institute_name": "CHANDAI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 131884,
+      "institute_name": "DASGRAM ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 132014,
+      "institute_name": "JONAIL MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 131883,
+      "institute_name": "MUKTI JODDHA DOCTOR MOHSIN ALI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 124112,
+      "institute_name": "BIL MARIA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 124119,
+      "institute_name": "DHUPOIL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 124111,
+      "institute_name": "KALASH NAGAR"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 124116,
+      "institute_name": "LALPUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 124120,
+      "institute_name": "NAZRUL NAGAR GHATMORDAH MODEL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 131981,
+      "institute_name": "PAIK PARA  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 124118,
+      "institute_name": "SALAM PUR ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 124232,
+      "institute_name": "BAGUM KHALEDA ZIA MOHABIDALOYA"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 124244,
+      "institute_name": "BANGABANDHU SHAIKH MUJIB COLLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 124243,
+      "institute_name": "DR.NASIR UDDIN TALUKDER COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 124233,
+      "institute_name": "EASINPUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 124245,
+      "institute_name": "M.RUHUL KUDDUS TALUKDAR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 131968,
+      "institute_name": "MOMIN PUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 124231,
+      "institute_name": "PIRGANJ ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 124242,
+      "institute_name": "SONAPATIL NALDANGA WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 124311,
+      "institute_name": "CHAMARI COLLAGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NATORE",
+      "eiin": 124314,
+      "institute_name": "RAHIM UDDIN AHMED MEMEORIAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 131902,
+      "institute_name": "BHOLAHAT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124349,
+      "institute_name": "JAMBARIA  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124602,
+      "institute_name": "ALHAJ ABDUS SAMAD  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124603,
+      "institute_name": "AMNURA HAZRAT BULANDA SHAH COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124591,
+      "institute_name": "DIAR  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124601,
+      "institute_name": "MOHARAJPUR ESMA  KHATUN  CHOWDHURY COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124604,
+      "institute_name": "NARYANPUR ADARSHA  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124423,
+      "institute_name": "CHOWDALA JOHUR AHMED MIAN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124422,
+      "institute_name": "PARBOTIPUR S. B.(SONABAR) ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124421,
+      "institute_name": "RADHA NAGAR BARENDRA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124419,
+      "institute_name": "ROHANPUR P. M. IDEAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124490,
+      "institute_name": "GOLBARI ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124484,
+      "institute_name": "MIRZAPUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124489,
+      "institute_name": "RAJBARI  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124488,
+      "institute_name": "SHAHID  SMRITI  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124487,
+      "institute_name": "SONAICHANDI TECHNICAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124745,
+      "institute_name": "BIR SHRESTHA SHAHID CAPT. MOHIUDDIN JAHANGIR\nCOLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124738,
+      "institute_name": "PUKURIA MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124748,
+      "institute_name": "RANI HATI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 132004,
+      "institute_name": "SAYEDA SHARIFA TECH. HOME ECONOMICS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NAWABGANJ",
+      "eiin": 124750,
+      "institute_name": "UZIRPUR ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NILPHAMARI",
+      "eiin": 133764,
+      "institute_name": "SHAHID ZIA-UR RAHMAN MOHABIDDALAY"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NILPHAMARI",
+      "eiin": 124826,
+      "institute_name": "TISTA COLLAGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NILPHAMARI",
+      "eiin": 124894,
+      "institute_name": "GOMNATI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NILPHAMARI",
+      "eiin": 124895,
+      "institute_name": "MIRZAGONJ COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NILPHAMARI",
+      "eiin": 124980,
+      "institute_name": "GOLNA SHAHID SMRITY COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NILPHAMARI",
+      "eiin": 124981,
+      "institute_name": "IDEAL COOLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NILPHAMARI",
+      "eiin": 124979,
+      "institute_name": "MIRGONJ HAT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NILPHAMARI",
+      "eiin": 125055,
+      "institute_name": "ANOR MARI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NILPHAMARI",
+      "eiin": 133751,
+      "institute_name": "KISHOREGONJ MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NILPHAMARI",
+      "eiin": 125052,
+      "institute_name": "MAGURA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NILPHAMARI",
+      "eiin": 125054,
+      "institute_name": "RADHARANI WOMEN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NILPHAMARI",
+      "eiin": 125193,
+      "institute_name": "ARARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NILPHAMARI",
+      "eiin": 125192,
+      "institute_name": "PALASH BARI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "NILPHAMARI",
+      "eiin": 132009,
+      "institute_name": "POLASH BARI WEMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 125299,
+      "institute_name": "BERUAN WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 125301,
+      "institute_name": "DENGARGRAM  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 131970,
+      "institute_name": "ISHARAT ALI WOMANS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 125332,
+      "institute_name": "KASHINATH PUR WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 125331,
+      "institute_name": "MASHUNDIA BHAWANI PUR K J B COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 125328,
+      "institute_name": "NAKALIA MONJUR KADER  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 125370,
+      "institute_name": "MOHOLA COLLEGE VANGURA"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 131925,
+      "institute_name": "CHALAN BIL ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 131949,
+      "institute_name": "HANDIYL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 125488,
+      "institute_name": "POURO MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 125490,
+      "institute_name": "PUNGALI SHAHIDULLAH COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 131923,
+      "institute_name": "MULADULI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 125557,
+      "institute_name": "SALIMPUR  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 125657,
+      "institute_name": "ADARSHA WOMEN COLLEGE PABNA"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 125658,
+      "institute_name": "ALHAJ AHED ALI BISWASH COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 125667,
+      "institute_name": "PADMA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 125662,
+      "institute_name": "SHAHID SADHAN SANGEET COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 131955,
+      "institute_name": "TEBUNIA MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 125746,
+      "institute_name": "JORGASA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 125789,
+      "institute_name": "NIZAMUDDIN  AZGAR ALI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 125791,
+      "institute_name": "SATBARIA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PABNA",
+      "eiin": 125788,
+      "institute_name": "SUJANAGOR  WOMEN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PANCHAGARH",
+      "eiin": 125865,
+      "institute_name": "ATWARI ADARSHA WOMEN,S COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PANCHAGARH",
+      "eiin": 125867,
+      "institute_name": "BANGABANDHU DANGIR HAT ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PANCHAGARH",
+      "eiin": 125977,
+      "institute_name": "DHARDHARA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PANCHAGARH",
+      "eiin": 125975,
+      "institute_name": "MAIDANDIGHI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PANCHAGARH",
+      "eiin": 126048,
+      "institute_name": "BHOWLAGANG COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PANCHAGARH",
+      "eiin": 126049,
+      "institute_name": "CHENGTHI HAZRADANGA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PANCHAGARH",
+      "eiin": 126050,
+      "institute_name": "DEBIGANJ MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PANCHAGARH",
+      "eiin": 126051,
+      "institute_name": "KALIGONG COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PANCHAGARH",
+      "eiin": 126052,
+      "institute_name": "SONAHAR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PANCHAGARH",
+      "eiin": 126151,
+      "institute_name": "JAGDAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PANCHAGARH",
+      "eiin": 126191,
+      "institute_name": "AL HAJ TOMIZUDDIN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "PANCHAGARH",
+      "eiin": 126194,
+      "institute_name": "MAJHIPARA WOMEN\"S COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126258,
+      "institute_name": "ABDUL  GANI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126259,
+      "institute_name": "BAUSHA  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126263,
+      "institute_name": "MANIGRAM ADARSHA MOHABIDYALAYA"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126262,
+      "institute_name": "MIRGONZ COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126260,
+      "institute_name": "SARIFABAD COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 132007,
+      "institute_name": "ADARSHA TECHNICAL AND B. M. COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126429,
+      "institute_name": "ALOKNAGAR WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126423,
+      "institute_name": "BAGMARA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126434,
+      "institute_name": "DAMNASH COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126432,
+      "institute_name": "DWIPNAGAR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 132031,
+      "institute_name": "GORSAR TECHNICALAND B.M.COLLEGEG"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126436,
+      "institute_name": "KHAL GRAM BISHNOPUR COLLAGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126435,
+      "institute_name": "M G (MOJOPARA HAT GANGOPARA) MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126428,
+      "institute_name": "MARIA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126431,
+      "institute_name": "NASIRGONJ COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126433,
+      "institute_name": "SAYEDPUR MOCHMOIL WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126419,
+      "institute_name": "SHAKOA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126493,
+      "institute_name": "ALHAJ SUJAUDDULA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126488,
+      "institute_name": "BARENDRA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126591,
+      "institute_name": "BHAYA LAXMIPUR BUDHIRHAT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126589,
+      "institute_name": "BORAL ADARSHO WOMEN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126590,
+      "institute_name": "RAWTHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126581,
+      "institute_name": "RAYPUR WOMEN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126588,
+      "institute_name": "SAHDAH WOMEN'S COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126586,
+      "institute_name": "SHAHID ZIAUR RAHMAN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126658,
+      "institute_name": "ALIPUR MODEL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126665,
+      "institute_name": "DHARAMPUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126663,
+      "institute_name": "JHALUKA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126666,
+      "institute_name": "NAOPARA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126757,
+      "institute_name": "KAKAN HAT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126758,
+      "institute_name": "PAKRI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126764,
+      "institute_name": "PALPUR DHARAMPUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126928,
+      "institute_name": "M R K COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 131972,
+      "institute_name": "MOTIHAR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126844,
+      "institute_name": "BASANTA KEDAR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126851,
+      "institute_name": "DHAMIN NAOGAON IDEAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 132002,
+      "institute_name": "DHORAIL ADARSHA MOHOBIDDALOY"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 131979,
+      "institute_name": "DURGA PUR ADARSO WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126849,
+      "institute_name": "KESHOR HAT WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126846,
+      "institute_name": "MOAN PUR MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126852,
+      "institute_name": "MOUGACHI  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126848,
+      "institute_name": "PAKURIA  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126930,
+      "institute_name": "ADARSHA DEGREE COLLGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126929,
+      "institute_name": "DAMKURAHAT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 131948,
+      "institute_name": "DANGER HAT  WOMENS  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126936,
+      "institute_name": "DARSHANPARA SHAHEED KAMRUZZAMAN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126927,
+      "institute_name": "DARUSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126926,
+      "institute_name": "KABI KAZI NAZRUL ISLAM COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126934,
+      "institute_name": "KASHIA DANGA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126931,
+      "institute_name": "SHYAMPUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126937,
+      "institute_name": "VERAPORA ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 127011,
+      "institute_name": "BEL PUKURIA WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 127012,
+      "institute_name": "BIRALDAH COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 127019,
+      "institute_name": "JAMIRA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 131994,
+      "institute_name": "EVER GREEN MODEL COLLEGE,RAJSHAHI"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 131993,
+      "institute_name": "UPASHAHAR WOMANS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 126491,
+      "institute_name": "MAHANAGAR MAHABIDDALAYA"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 127041,
+      "institute_name": "RAJSHAHI  RESIDENTIAL  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 127137,
+      "institute_name": "CENRAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 127140,
+      "institute_name": "FAZAR ALI MOLLA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 127142,
+      "institute_name": "KACHUA IDEAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 127147,
+      "institute_name": "KOYEL ADRASAHA COLLAGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 127145,
+      "institute_name": "KRISHNAPUR ADARSHA WOMEN S COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 127135,
+      "institute_name": "LALPUR MODEL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 127139,
+      "institute_name": "MADARIPUR IDEAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RAJSHAHI",
+      "eiin": 127148,
+      "institute_name": "MOHAMMADPUR MUKTIZODDHA MEMORIAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 127237,
+      "institute_name": "LALDIGHI PIRLAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 131973,
+      "institute_name": "BARAIBARI  COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 132045,
+      "institute_name": "PAKURIA SHARIF COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 127360,
+      "institute_name": "HARAGACH MODEL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 127669,
+      "institute_name": "BALARHAT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 127670,
+      "institute_name": "CHHARAN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 127661,
+      "institute_name": "HENA MEMORIAL MOHILA MAHABIDDALAYA"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 127775,
+      "institute_name": "ANNADANAGAR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 127773,
+      "institute_name": "ITAKUMARI SHIBCHANDRA ROY COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 127774,
+      "institute_name": "PAOTANA HAT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 127771,
+      "institute_name": "RAHIM UDDIN BHARASHA WOMEN'S COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 127776,
+      "institute_name": "SATDARGAH COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 131964,
+      "institute_name": "TAMBULPUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 127946,
+      "institute_name": "AMADPUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 133821,
+      "institute_name": "CHATRA MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 127945,
+      "institute_name": "GURZIPARA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 127939,
+      "institute_name": "MADARGANJ COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 132038,
+      "institute_name": "MOHIOSHI BEGUM ROKEYA WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 131935,
+      "institute_name": "PIRGANJ MOHABIDDALOY"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 132040,
+      "institute_name": "VENDABARI WOMEN,S COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 127493,
+      "institute_name": "NAYAPUKUR MAJIDA KHATUN WOMEN'S COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 127495,
+      "institute_name": "RANGPUR CITY COLLEGE, RANGPUR"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "RANGPUR",
+      "eiin": 127494,
+      "institute_name": "WOMEN'S COLLEGE LAHIRIRHAT"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128025,
+      "institute_name": "BELKUCHI BAHUMAUKHI WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128026,
+      "institute_name": "BELKUCHI MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128073,
+      "institute_name": "CHOWHALI S.B.M. MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128076,
+      "institute_name": "KHAMAR GRAM COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128077,
+      "institute_name": "MANZUR KADER MOHABIDDALOY,SHAMVUDIA"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128075,
+      "institute_name": "REHAIPUKURIA ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128116,
+      "institute_name": "DR. SHAMSH UDDIN SALEMA MEMORIAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128191,
+      "institute_name": "ANCHOLIC MOHILA COLLEGE (UDGARI)"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128180,
+      "institute_name": "KAZIPUR MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128186,
+      "institute_name": "KAZIPUR THANA SADAR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128280,
+      "institute_name": "DAD PUR G.R. COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128278,
+      "institute_name": "GRAM PANGASHI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128281,
+      "institute_name": "RAIGONG UPJILA SADAR DHANGARA MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128273,
+      "institute_name": "SALANGA WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128362,
+      "institute_name": "BANGABANDHU MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128357,
+      "institute_name": "KARATOA COLLEGE TALGACHHI"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128458,
+      "institute_name": "BAHUKA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128456,
+      "institute_name": "CHHONGACHHA WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128469,
+      "institute_name": "D.K.B.U.COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128459,
+      "institute_name": "FULKOCHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128470,
+      "institute_name": "KURI PARA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128455,
+      "institute_name": "UTTARAN WOMANS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128546,
+      "institute_name": "KHANDAKAR ABU SAYED ADARSHA BIGGAN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128545,
+      "institute_name": "MADHAINAGA ADIBASI ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128680,
+      "institute_name": "GAZAIL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128678,
+      "institute_name": "GHONA KUCHIA MARA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128677,
+      "institute_name": "JATIO TARUN SANGHA BARA PANGSHI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128673,
+      "institute_name": "PRINCIPAL ABUL HOSSAIN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128679,
+      "institute_name": "RAJMAN MOHABIDDALAYA"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128672,
+      "institute_name": "SALAP COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "SIRAJGANJ",
+      "eiin": 128675,
+      "institute_name": "ULLAPARA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 128768,
+      "institute_name": "SAMIRUDDIN SMRITI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 128770,
+      "institute_name": "SHAHID AKBAR ALI MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 128855,
+      "institute_name": "DAMOL IDEAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 128854,
+      "institute_name": "HARIPUR ADARSHA WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 128853,
+      "institute_name": "HARIPUR WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 128851,
+      "institute_name": "JADU RANI COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 128850,
+      "institute_name": "JADURANI ADARSHA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 128852,
+      "institute_name": "KATHAL DANGI MOHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 128848,
+      "institute_name": "MOSLEM UDDIN COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 128972,
+      "institute_name": "BANSHGARA IDEAL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 128971,
+      "institute_name": "HAJIPUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 128966,
+      "institute_name": "JABORHAT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 128970,
+      "institute_name": "LOHAGARA MOHAVIDDALAYA"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 128974,
+      "institute_name": "NAWDANGA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 128973,
+      "institute_name": "PIRGANG ADARSHA MOHABIDDAROY"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 128968,
+      "institute_name": "PIRGONJ MAHILA COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 129074,
+      "institute_name": "BANGLAGAR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 129077,
+      "institute_name": "D.K. COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 131940,
+      "institute_name": "GOGOR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 129072,
+      "institute_name": "NEKMORD BANGA BONDHU COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 132026,
+      "institute_name": "PADAMPUR TECNICAL AND BUSINESS MANAGMENT COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 131942,
+      "institute_name": "RAMPUR COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 129306,
+      "institute_name": "ABUL HOSSAIN SARKER COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 129314,
+      "institute_name": "GINNIDEBI AGAR WAL WOMENS COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 131995,
+      "institute_name": "SALANDAR WOMEN'S COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 129316,
+      "institute_name": "THAKURGAON NEW MODEL COLLEGE"
+    },
+    {
+      "division": "RAJSHAHI",
+      "district": "THAKURGAON",
+      "eiin": 129309,
+      "institute_name": "THAKURGAON ROAD COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "HABIGANJ",
+      "eiin": 129325,
+      "institute_name": "AJMIRIGANJ COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "HABIGANJ",
+      "eiin": 131953,
+      "institute_name": "PAHARPUR ADARSHO COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "HABIGANJ",
+      "eiin": 129343,
+      "institute_name": "BAHUBAL COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "HABIGANJ",
+      "eiin": 129374,
+      "institute_name": "SUFIA MATIN MOHILA COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "HABIGANJ",
+      "eiin": 132021,
+      "institute_name": "KABIR COLLEGIATE ACADEMY"
+    },
+    {
+      "division": "SYLHET",
+      "district": "HABIGANJ",
+      "eiin": 131947,
+      "institute_name": "KABIR COLLEGIATR ACADEMY"
+    },
+    {
+      "division": "SYLHET",
+      "district": "HABIGANJ",
+      "eiin": 129462,
+      "institute_name": "MUKTIJODDHA ZIA COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "HABIGANJ",
+      "eiin": 129494,
+      "institute_name": "DHARMAGHAR COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "HABIGANJ",
+      "eiin": 129492,
+      "institute_name": "SHAH JALAL COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "MAULVIBAZAR",
+      "eiin": 131920,
+      "institute_name": "DASHER BAZAR ADARSHA COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "MAULVIBAZAR",
+      "eiin": 131896,
+      "institute_name": "M. MUNTAZIM  ALI  COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "MAULVIBAZAR",
+      "eiin": 129680,
+      "institute_name": "SHAH NIMATRA SAGORNAL FULTOLA COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "MAULVIBAZAR",
+      "eiin": 129614,
+      "institute_name": "ABDUL  GAFUR  CHOWDHURY  MAHILA  COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "MAULVIBAZAR",
+      "eiin": 129616,
+      "institute_name": "SUJA MEMORIAL COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "MAULVIBAZAR",
+      "eiin": 129683,
+      "institute_name": "YOUSUF  GONI  ADARSHA  COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "MAULVIBAZAR",
+      "eiin": 129731,
+      "institute_name": "SYED  SHAH  MOSTAFA  COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "MAULVIBAZAR",
+      "eiin": 129756,
+      "institute_name": "MOULANA MUFAZZAL HOSSAIN MOHILA COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SUNAMGANJ",
+      "eiin": 129857,
+      "institute_name": "JANATA COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SUNAMGANJ",
+      "eiin": 129858,
+      "institute_name": "JAWA BAZAR COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SUNAMGANJ",
+      "eiin": 130054,
+      "institute_name": "ABDUL  MAJID  COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SUNAMGANJ",
+      "eiin": 129886,
+      "institute_name": "BIBIANA MODEL COLAGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SUNAMGANJ",
+      "eiin": 129885,
+      "institute_name": "JOGDOL COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SUNAMGANJ",
+      "eiin": 129932,
+      "institute_name": "DUARA  BAZAR  COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SUNAMGANJ",
+      "eiin": 129980,
+      "institute_name": "SHAHJALAL   COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SUNAMGANJ",
+      "eiin": 129979,
+      "institute_name": "SYEDPUR  ADARSHA  COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SUNAMGANJ",
+      "eiin": 130010,
+      "institute_name": "SULLA  COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SUNAMGANJ",
+      "eiin": 130053,
+      "institute_name": "ISLAMGANJ  COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SUNAMGANJ",
+      "eiin": 130055,
+      "institute_name": "MOYNUL  HAQ  COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SUNAMGANJ",
+      "eiin": 130050,
+      "institute_name": "SUNAMGONG GOVT. MOHILA COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SUNAMGANJ",
+      "eiin": 130052,
+      "institute_name": "SUNAMGONJ POURA  COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SUNAMGANJ",
+      "eiin": 130077,
+      "institute_name": "BADAGHAT  COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SUNAMGANJ",
+      "eiin": 130078,
+      "institute_name": "JOYNAL ABEDIN COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 130126,
+      "institute_name": "DAYAMIR COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 130123,
+      "institute_name": "GOALA BAZAR ADARSHA MOHILA COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 130173,
+      "institute_name": "KURAR BAZAR COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 130171,
+      "institute_name": "SYED NABIB ALI COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 130218,
+      "institute_name": "UTTAR BISHWANATH COLLGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 130235,
+      "institute_name": "M SAIFUR RAHAMAN COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 130449,
+      "institute_name": "JALAL PUR COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 130301,
+      "institute_name": "KUSHIARA COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 130336,
+      "institute_name": "SALUTIKOR COLLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 130355,
+      "institute_name": "HAZRAT SHAHJALAL (R.) COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 130357,
+      "institute_name": "IMRAN AHMED WOMEN'S COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 130390,
+      "institute_name": "GACHHBARI IDEAL COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 132030,
+      "institute_name": "MALIK  NAHER  MEMODIEL  ACADEMY"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 131915,
+      "institute_name": "JALALABAD UNIVERSITY COLLEGE, SYLHET"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 131911,
+      "institute_name": "SYLHET COMMERCE  COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 131912,
+      "institute_name": "SYLHET SCIENCE COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 130541,
+      "institute_name": "BAROHAL COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 130540,
+      "institute_name": "HAFSA MAZUMDER MOHILA COLLEGE"
+    },
+    {
+      "division": "SYLHET",
+      "district": "SYLHET",
+      "eiin": 130542,
+      "institute_name": "ZAKIGONJ GOVT. COLLEGE"
+    }
+  ]
+}
